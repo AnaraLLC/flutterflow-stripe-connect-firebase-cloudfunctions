@@ -1,0 +1,18 @@
+{
+  "stripe": {
+    "test_sk": "",
+    "standard_authorize_uri": "https://connect.stripe.com/oauth/authorize",
+    "prod_sk": "",
+    "prod_client_id": "",
+    "test_client_id": "",
+    "prod_pk": "",
+    "express_authorize_uri": "https://connect.stripe.com/express/oauth/authorize",
+    "token_uri": "https://connect.stripe.com/oauth/token",
+    "test_pk": ""
+  },
+  "firebase": {
+    "projectId": "YOUR-FIREBASE-PROJECT-ID",
+    "storageBucket": "YOUR-FIREBASE-PROJECT-ID.appspot.com",
+    "locationId": "us-central"
+  }
+}
